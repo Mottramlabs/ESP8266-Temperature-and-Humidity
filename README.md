@@ -6,4 +6,4 @@ The Wifi user name and password is set in the Wifi_Settings.h file and the MQTT 
 
 A simple case for this project https://www.thingiverse.com/thing:3454041
 
-
+I have a few ready made PCB's here https://www.ebay.co.uk/sch/mlabs2018/m.html?_nkw=&_armrs=1&_ipg=&_from=
